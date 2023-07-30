@@ -1,0 +1,41 @@
+body{
+    background: #F9F4EE;
+    color: #020826;
+}
+
+h1{
+    font-weight:900;
+    color: #020826;
+}
+
+.comb{
+    font-weight:700;
+    font-size: 50px;
+    line-height:100px;
+}
+
+.result{
+    font-size: 25px;
+    line-height:120px;
+
+    background: #FFFFFF;
+    width: 100%;
+    height: 120px;
+    border-radius: 20px;
+}
+
+button{
+    border: none;
+    border-radius: 20px;
+    background: #8C7851;
+    color: #FFFFFF;
+    font-size: 25px;
+    width: 100%;
+    height: 70px;
+}
+
+button:hover{
+    border: 5px solid #8C7851;
+    background: #FFFFFF;
+    color: #8C7851;
+}
